@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CalculatorUI</string>
+    <string name="adres" translatable="false">address</string>
+    <string name="enter">Enter</string>
 </resources>
